@@ -22,7 +22,6 @@ python3 do_it_yourself.py
 ```shell
 pytest
 ```
-
  
 "Result:"
 
