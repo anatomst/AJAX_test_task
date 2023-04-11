@@ -11,7 +11,8 @@ pip install -r requirements.txt
 
 ## To check first task
 ```shell
-python3 do_it_yourself.py
+python3 do_it_yourself.py (on Linux and macOS)
+python do_it_yourself.py (on Windows)
 ```
  
 "Result must be like:"
